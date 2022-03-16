@@ -2,9 +2,9 @@
 
 These All-in-one Bioinformatics HTML5/JS files accompany the book entitled: <i>Algorithms in Bioinformatics: Theory and Implementation</i>, and they are compatible with all internet browsers. 
 
-![screenshot](https://github.com/Gagniuc/Bioinformatics-HTML5-Implementations/blob/main/bio%20logo.png)
 ![screenshot](https://github.com/Gagniuc/Bioinformatics-HTML5-Implementations/blob/main/Eng1.png)
 ![screenshot](https://github.com/Gagniuc/Bioinformatics-HTML5-Implementations/blob/main/Fra1.png)
+![screenshot](https://github.com/Gagniuc/Bioinformatics-HTML5-Implementations/blob/main/bio%20logo.png)
 
 # References
 
